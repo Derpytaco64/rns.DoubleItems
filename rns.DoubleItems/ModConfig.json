@@ -1,0 +1,21 @@
+{
+  "ModId": "rns.gameplay.DoubleItems",
+  "ModName": "DoubleItems",
+  "ModAuthor": "DT64",
+  "ModVersion": "0.1.0",
+  "ModDescription": "(NOT CURRENTLY WORKING) Make item chest give double items and buffs enemy health.",
+  "ModDll": "rns.DoubleItems.dll",
+  "ModIcon": "WildHare-Crop.png",
+  "ModR2RManagedDll32": "x86/rns.DoubleItems.dll",
+  "ModR2RManagedDll64": "x64/rns.DoubleItems.dll",
+  "ModNativeDll32": "",
+  "ModNativeDll64": "",
+  "IsLibrary": false,
+  "ReleaseMetadataFileName": "rns.DoubleItems.ReleaseMetadata.json",
+  "PluginData": {},
+  "IsUniversalMod": false,
+  "ModDependencies": [ "reloaded.sharedlib.hooks" ],
+  "OptionalDependencies": [],
+  "SupportedAppId": [],
+  "ProjectUrl": ""
+}
